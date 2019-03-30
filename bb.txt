@@ -241,6 +241,7 @@ a
  fidsjfkldsdfkljdl
  fidsjfkldsdfkljdl
  fidsjfkldsdfkljdl
+<<<<<<< HEAD
  fidsjfkldsdfkljdl
  fidsjfkldsdfkljdl
  fidsjfkldsdfkljdl
@@ -296,3 +297,4 @@ skdjlf;jsdkljfds
 
 sdjklfjsdlkf
 aaabbbbcdefg1
+ abcdefghijklmn hot_fix
